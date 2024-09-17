@@ -7,6 +7,8 @@ public class Sampleprogram {
 			// TODO Auto-generated method stub
 	System.out.println("Hello World");
 	System.out.println("Be Calm");
+	System.out.println("all is well");
+	System.out.println("be like a butterfy");
 		}
 
 	}

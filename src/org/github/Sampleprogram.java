@@ -9,8 +9,9 @@ public class Sampleprogram {
 	System.out.println("Be Calm");
 	System.out.println("all is well");
 	System.out.println("be like a butterfy");
-	System.out.println("be happy");
-	System.out.println("keep smiling");
+	System.out.println("*****************be happy*********************");
+	System.out.println("*****************keep smiling*****************");
+	System.out.println("**********************************************");
 		}
 
 	}

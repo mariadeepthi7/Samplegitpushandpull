@@ -13,6 +13,8 @@ public class Sampleprogram {
 	System.out.println("*****************keep smiling*****************");
 	System.out.println("**********************************************");
 	System.out.println("ALL IS WELL");
+	System.out.println("#########################");
+	System.out.println("#########################");
 		}
 
 	}
